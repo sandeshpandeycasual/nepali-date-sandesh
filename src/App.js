@@ -1,6 +1,7 @@
 import "./styles.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import NepaliDate from "nepali-date/cjs/NepaliDate";
+
 export default function App() {
   const months = [
     "Baisakh",
